@@ -1,0 +1,5 @@
+commit 1649a3f617b6e6189c8857080b2e9d11fed5cd5b
+Author: Philip Rideout <philiprideout@gmail.com>
+Date:   Fri Apr 10 16:32:55 2020 -0700
+
+    Bump Filament to 1.5.2 and disable bloom. (#1073)
